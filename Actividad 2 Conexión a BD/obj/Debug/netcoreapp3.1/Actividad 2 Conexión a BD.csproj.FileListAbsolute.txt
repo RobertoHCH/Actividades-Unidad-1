@@ -1,0 +1,126 @@
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\appsettings.json
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.exe
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.csprojAssemblyReference.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.AssemblyInfoInputs.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.AssemblyInfo.cs
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.RazorTargetAssemblyInfo.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\staticwebassets\Actividad 2 Conexión a BD.StaticWebAssets.Manifest.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\staticwebassets\Actividad 2 Conexión a BD.StaticWebAssets.xml
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.deps.json
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.runtimeconfig.json
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.runtimeconfig.dev.json
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.pdb
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.csproj.CopyComplete
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.pdb
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.genruntimeconfig.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.Views.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.Views.pdb
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.RazorAssemblyInfo.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.RazorAssemblyInfo.cs
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.TagHelpers.input.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.TagHelpers.output.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.RazorCoreGenerate.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.RazorTargetAssemblyInfo.cs
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.Views.pdb
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.csproj.CoreCompileInputs.cache
+A:\7mo Semestre\Programación Web\Actividad 2 Conexión a BD\Actividad 2 Conexión a BD\obj\Debug\netcoreapp3.1\Actividad 2 Conexión a BD.MvcApplicationPartsAssemblyInfo.cache
